@@ -1,2 +1,5 @@
-# notes
-学习笔记
+# Blockchain note
+
+> i on blockchain project team leaned of note.
+
+- [fisco build](./fisco/build)
